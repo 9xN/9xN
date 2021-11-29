@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <h2 align="center">social reject</h2>
 
 <div align="center">
@@ -24,3 +26,5 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/308435226156072981?bg=00000000&idleMessage=Fuck%20around%20and%20find%20out..." />
   </p>
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+![Footer](./footer.png)
