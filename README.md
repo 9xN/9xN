@@ -1,9 +1,9 @@
 ![Header](./header.png)
 
-<h2 align="center">social reject</h2>
+<h2 align="center">9xN</h2>
 
 <div align="center">
-  <a href="https://github.com/r3p3nt">
+  <a href="https://github.com/9xN">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=9xN&label=stalker+count" alt="Profile Views Count">
   </p>
@@ -21,10 +21,7 @@
 </table>
 
 </div>
-<a href="https://discord.com/users/308435226156072981">
-  <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/308435226156072981?bg=00000000&idleMessage=Fuck%20around%20and%20find%20out..." />
-  </p>
+
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 ![Footer](./footer.png)
